@@ -1,1 +1,2 @@
-# gomzer.github.io
+# GomZer Site
+Created by http://satanax.tk
